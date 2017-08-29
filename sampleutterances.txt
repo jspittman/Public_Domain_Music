@@ -1,0 +1,39 @@
+Play play
+Play start
+Play start playing
+Play play now
+Play I want to listen to
+Play turn the dial to
+Play turn it to
+Play play z rock
+Play play z rock again
+Play z rock
+ClassicalIntent classical
+ClassicalIntent classical music
+ClassicalIntent classical station
+ClassicalIntent play classical
+JazzIntent jazz
+JazzIntent jazz music
+JazzIntent jazz station
+JazzIntent play jazz
+JazzIntent play jazz music
+ModernJazzIntent modern jazz
+ModernJazzIntent modern jazz music
+ModernJazzIntent modern jazz station
+ModernJazzIntent play modern jazz
+ModernJazzIntent play modern jazz music
+OperaIntent opera
+OperaIntent opera music
+OperaIntent opera station
+OperaIntent play opera
+OperaIntent play opera music
+AMAZON.StopIntent quit
+AMAZON.StopIntent shut up
+AMAZON.StopIntent shut-up
+AMAZON.StopIntent shutup
+AMAZON.StopIntent enough
+AMAZON.StopIntent all done
+AMAZON.StopIntent zip it
+AMAZON.StopIntent zipit
+AMAZON.StopIntent zip-it
+AMAZON.StopIntent shutup
