@@ -1,0 +1,28 @@
+{
+  "intents": [
+    {
+      "intent": "Play"
+    },
+    {
+      "intent": "ClassicalIntent"
+    },
+    {
+      "intent": "JazzIntent"
+    },
+    {
+      "intent": "ModernJazzIntent"
+    },
+    {
+      "intent": "OperaIntent"
+    },
+    {
+      "intent": "AMAZON.PauseIntent"
+    },
+    {
+      "intent": "AMAZON.ResumeIntent"
+    },
+    {
+      "intent": "AMAZON.StopIntent"
+    }
+  ]
+}
